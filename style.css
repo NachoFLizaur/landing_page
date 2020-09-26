@@ -1,11 +1,12 @@
+
 body {
-    /* background-image: url("bottom.svg") ; */
-    /* position: fixed; */
-    /* bottom: auto; */
-    background-color: #2F333E;
-    /* background-repeat: no-repeat; */
-    /* background-size: 100%; */
+    padding: 0;
+    margin: 0;
+    background-color: #17141d;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 .icon{
     display: block;
     margin-left: auto;
@@ -59,18 +60,11 @@ body {
     font-size:40px;
     font-style:bold;
     text-align:center;
-    color:gray;
+    color:white;
     font-family: Calibri, sans-serif;
 }
 
 /* CSS Style for smart cards */
-body {
-    padding: 0;
-    margin: 0;
-    background-color: #17141d;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 .card-list {
     display: flex;
